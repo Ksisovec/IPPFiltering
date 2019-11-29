@@ -1,0 +1,4 @@
+﻿  IPPFiltering.cpp
+d:\works\c++\ippfiltering\ippfiltering\ippfiltering.cpp(179): warning C4244: =: преобразование "Ipp64f" в "float", возможна потеря данных
+  IPPFiltering.vcxproj -> D:\works\C++\IPPFiltering\Debug\IPPFiltering.exe
+  IPPFiltering.vcxproj -> D:\works\C++\IPPFiltering\Debug\IPPFiltering.pdb (Partial PDB)

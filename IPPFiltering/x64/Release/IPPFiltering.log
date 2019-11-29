@@ -1,0 +1,2 @@
+﻿  IPPFiltering.cpp
+IPPFiltering.cpp(8): fatal error C1083: Не удается открыть файл включение: ippcore.h: No such file or directory
